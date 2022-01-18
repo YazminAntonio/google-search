@@ -1,0 +1,31 @@
+
+img{
+  width: 150px;
+  padding: 100px;
+  margin:0 auto;
+  display:block;
+}
+div{
+  padding: 20px;
+}
+input{
+  width: 400px;
+  border-style: solid;
+  border-color: #c4c4c4;
+  border-radius:10px;
+  color: #5b5b5b;
+  margin:0 auto;
+  display:block;
+}
+button{
+  width: ~80px;
+  background-color: #4285f3;
+  border-style: solid;
+  border-color:#1a5fd0;
+  color: white;
+  margin:0 auto;
+  display:block;
+}
+button:hover {
+  color: #5998ff;
+}
