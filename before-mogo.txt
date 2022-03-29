@@ -1,0 +1,53 @@
+// 
+// let results = [
+//   {
+//     title: 'JS tutorials',
+//     description: 'The best JavaScript tutorials in the galaxy!',
+//     url: 'https://www.w3schools.com',
+//     links: [
+//       {
+//         title: 'JS for Beginners',
+//         url: 'https://www.w3schools.com/js'
+//       },
+//       {
+//         title: 'JS for the Web',
+//         url: 'https://www.w3schools.com/js'
+//       }
+//     ]
+//   },
+//   {
+//     title: 'Java Script MDN ',
+//     description: 'JavaScript(JS) is a lightweight!',
+//     url: 'https://www.w3schools.com',
+//     links: [
+//       {
+//         title: 'JavaScript Operartor',
+//         url: 'https://www.w3schools.com/js'
+//       },
+//       {
+//         title: 'JJavaScrip Code',
+//         url: 'https://www.w3schools.com/js'
+//       }
+//     ]
+//   },
+//   {
+//     title: 'Java Script Wikipedia',
+//     description: 'JavaScript often abbreviated JS!',
+//     url: 'https://en.wikipedia.org/wiki/JavaScript',
+//     links: [
+//       {
+//         title: 'JavaScript Online',
+//         url: 'https://www.javascriptonline.html'
+//       },
+//       {
+//         title: 'JavaScrip Definition',
+//         url: 'https://www.JavaScriptdefinition.html'
+//       }
+//     ]
+//   }
+// ]
+// results = results.filter(
+//   e =>
+//     e.title.includes(req.body.search) ||
+//     e.description.includes(req.body.search)
+// )
